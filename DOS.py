@@ -16,13 +16,14 @@ user_agent_rotator = UserAgent(software_names=software_names, operating_systems=
 l = []
 rl = []
 print('DOS --> ʕ•ᴥ•ʔ  <-- DARK')
-print('  _____     _____    _   _   _____ 
- 	|_   _|   | ____|  | \ | | |_   _|
-   	  | |     |  _|    |  \| |   | |  
-   	  | |     | |___   | |\  |   | |  
-  	  |_|     |_____|  |_| \_|   |_|  
+print('''
+  _____     _____    _   _   _____ 
+ |_   _|   | ____|  | \ | | |_   _|
+   | |     |  _|    |  \| |   | |  
+   | |     | |___   | |\  |   | |  
+   |_|     |_____|  |_| \_|   |_|  
                                   
-')
+''')
 geturl = input('Enter the url :')
 
 
