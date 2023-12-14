@@ -24,6 +24,7 @@ print('''
    |_|     |_____|  |_| \_|   |_|  
                                   
 ''')
+print('Authoe : @DHIVAKAR MP')
 geturl = input('Enter the url :')
 
 
